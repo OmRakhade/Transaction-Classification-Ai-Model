@@ -1,0 +1,1670 @@
+{
+    "transactions": [
+        {
+            "transaction_id": "T001",
+            "merchant_name": "Domino's Pizza",
+            "amount": 500,
+            "category": "Food & Dining",
+            "subcategory": "Restaurants"
+        },
+        {
+            "transaction_id": "T002",
+            "merchant_name": "Big Bazaar",
+            "amount": 1500,
+            "category": "Food & Dining",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T003",
+            "merchant_name": "Uber",
+            "amount": 300,
+            "category": "Transportation",
+            "subcategory": "Ride-sharing"
+        },
+        {
+            "transaction_id": "T004",
+            "merchant_name": "Indian Oil",
+            "amount": 2000,
+            "category": "Transportation",
+            "subcategory": "Fuel"
+        },
+        {
+            "transaction_id": "T005",
+            "merchant_name": "Reliance Jio",
+            "amount": 1000,
+            "category": "Housing",
+            "subcategory": "Utilities"
+        },
+        {
+            "transaction_id": "T006",
+            "merchant_name": "Gold's Gym",
+            "amount": 2500,
+            "category": "Health & Fitness",
+            "subcategory": "Gym Memberships"
+        },
+        {
+            "transaction_id": "T007",
+            "merchant_name": "PVR Cinemas",
+            "amount": 800,
+            "category": "Entertainment",
+            "subcategory": "Movies"
+        },
+        {
+            "transaction_id": "T008",
+            "merchant_name": "Amazon",
+            "amount": 3000,
+            "category": "Shopping & Groceries",
+            "subcategory": "Electronics"
+        },
+        {
+            "transaction_id": "T009",
+            "merchant_name": "Taj Hotels",
+            "amount": 10000,
+            "category": "Travel",
+            "subcategory": "Hotels"
+        },
+        {
+            "transaction_id": "T010",
+            "merchant_name": "Coursera",
+            "amount": 5000,
+            "category": "Education",
+            "subcategory": "Online Courses"
+        },
+        {
+            "transaction_id": "T011",
+            "merchant_name": "HDFC Bank",
+            "amount": 20000,
+            "category": "Savings & Investments",
+            "subcategory": "Fixed Deposits"
+        },
+        {
+            "transaction_id": "T012",
+            "merchant_name": "Local Store",
+            "amount": 100,
+            "category": "Miscellaneous",
+            "subcategory": "Unclassified Expenses"
+        },
+        {
+            "transaction_id": "T013",
+            "merchant_name": "Kingfisher",
+            "amount": 1500,
+            "category": "Personal Expenses",
+            "subcategory": "Alcohol"
+        },
+        {
+            "transaction_id": "T014",
+            "merchant_name": "McDonald's",
+            "amount": 600,
+            "category": "Food & Dining",
+            "subcategory": "Restaurants"
+        },
+        {
+            "transaction_id": "T015",
+            "merchant_name": "Cafe Coffee Day",
+            "amount": 250,
+            "category": "Food & Dining",
+            "subcategory": "Cafes"
+        },
+        {
+            "transaction_id": "T016",
+            "merchant_name": "Swiggy",
+            "amount": 400,
+            "category": "Food & Dining",
+            "subcategory": "Takeout"
+        },
+        {
+            "transaction_id": "T017",
+            "merchant_name": "Spencer's",
+            "amount": 1200,
+            "category": "Food & Dining",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T018",
+            "merchant_name": "KFC",
+            "amount": 700,
+            "category": "Food & Dining",
+            "subcategory": "Snacks"
+        },
+        {
+            "transaction_id": "T019",
+            "merchant_name": "Delhi Metro",
+            "amount": 100,
+            "category": "Transportation",
+            "subcategory": "Public Transport"
+        },
+        {
+            "transaction_id": "T020",
+            "merchant_name": "IndiGo",
+            "amount": 5000,
+            "category": "Transportation",
+            "subcategory": "Flights"
+        },
+        {
+            "transaction_id": "T021",
+            "merchant_name": "Paytm Parking",
+            "amount": 50,
+            "category": "Transportation",
+            "subcategory": "Parking"
+        },
+        {
+            "transaction_id": "T022",
+            "merchant_name": "Ola",
+            "amount": 350,
+            "category": "Transportation",
+            "subcategory": "Ride-sharing"
+        },
+        {
+            "transaction_id": "T023",
+            "merchant_name": "Airbnb",
+            "amount": 8000,
+            "category": "Travel",
+            "subcategory": "Hotels"
+        },
+        {
+            "transaction_id": "T024",
+            "merchant_name": "Zoomcar",
+            "amount": 3000,
+            "category": "Travel",
+            "subcategory": "Car Rentals"
+        },
+        {
+            "transaction_id": "T025",
+            "merchant_name": "MakeMyTrip",
+            "amount": 1500,
+            "category": "Travel",
+            "subcategory": "Tours"
+        },
+        {
+            "transaction_id": "T026",
+            "merchant_name": "ICICI Lombard",
+            "amount": 2000,
+            "category": "Travel",
+            "subcategory": "Travel Insurance"
+        },
+        {
+            "transaction_id": "T027",
+            "merchant_name": "Flipkart",
+            "amount": 2500,
+            "category": "Shopping & Groceries",
+            "subcategory": "Clothing"
+        },
+        {
+            "transaction_id": "T028",
+            "merchant_name": "Croma",
+            "amount": 4000,
+            "category": "Shopping & Groceries",
+            "subcategory": "Electronics"
+        },
+        {
+            "transaction_id": "T029",
+            "merchant_name": "Home Centre",
+            "amount": 3500,
+            "category": "Shopping & Groceries",
+            "subcategory": "Home Goods"
+        },
+        {
+            "transaction_id": "T030",
+            "merchant_name": "Nykaa",
+            "amount": 1500,
+            "category": "Shopping & Groceries",
+            "subcategory": "Personal Care"
+        },
+        {
+            "transaction_id": "T031",
+            "merchant_name": "Archies",
+            "amount": 500,
+            "category": "Shopping & Groceries",
+            "subcategory": "Gifts"
+        },
+        {
+            "transaction_id": "T032",
+            "merchant_name": "Apollo Pharmacy",
+            "amount": 800,
+            "category": "Health & Fitness",
+            "subcategory": "Medications"
+        },
+        {
+            "transaction_id": "T033",
+            "merchant_name": "Fortis Hospital",
+            "amount": 3000,
+            "category": "Health & Fitness",
+            "subcategory": "Doctor Visits"
+        },
+        {
+            "transaction_id": "T034",
+            "merchant_name": "Practo",
+            "amount": 1500,
+            "category": "Health & Fitness",
+            "subcategory": "Therapy"
+        },
+        {
+            "transaction_id": "T035",
+            "merchant_name": "Netflix",
+            "amount": 800,
+            "category": "Entertainment",
+            "subcategory": "Subscriptions"
+        },
+        {
+            "transaction_id": "T036",
+            "merchant_name": "BookMyShow",
+            "amount": 1200,
+            "category": "Entertainment",
+            "subcategory": "Events"
+        },
+        {
+            "transaction_id": "T037",
+            "merchant_name": "Crossword",
+            "amount": 600,
+            "category": "Entertainment",
+            "subcategory": "Books"
+        },
+        {
+            "transaction_id": "T038",
+            "merchant_name": "Steam",
+            "amount": 1500,
+            "category": "Entertainment",
+            "subcategory": "Gaming"
+        },
+        {
+            "transaction_id": "T039",
+            "merchant_name": "Byju's",
+            "amount": 10000,
+            "category": "Education",
+            "subcategory": "Tuition Fees"
+        },
+        {
+            "transaction_id": "T040",
+            "merchant_name": "Amazon Kindle",
+            "amount": 1200,
+            "category": "Education",
+            "subcategory": "Books & Study Materials"
+        },
+        {
+            "transaction_id": "T041",
+            "merchant_name": "Udemy",
+            "amount": 3000,
+            "category": "Education",
+            "subcategory": "Training Programs"
+        },
+        {
+            "transaction_id": "T042",
+            "merchant_name": "SBI Mutual Fund",
+            "amount": 5000,
+            "category": "Savings & Investments",
+            "subcategory": "Mutual Funds"
+        },
+        {
+            "transaction_id": "T043",
+            "merchant_name": "Zerodha",
+            "amount": 10000,
+            "category": "Savings & Investments",
+            "subcategory": "Stocks"
+        },
+        {
+            "transaction_id": "T044",
+            "merchant_name": "Axis Bank",
+            "amount": 2000,
+            "category": "Savings & Investments",
+            "subcategory": "Emergency Funds"
+        },
+        {
+            "transaction_id": "T045",
+            "merchant_name": "EPFO",
+            "amount": 5000,
+            "category": "Savings & Investments",
+            "subcategory": "Retirement Contributions"
+        },
+        {
+            "transaction_id": "T046",
+            "merchant_name": "Local Vendor",
+            "amount": 300,
+            "category": "Miscellaneous",
+            "subcategory": "Miscellaneous Purchases"
+        },
+        {
+            "transaction_id": "T047",
+            "merchant_name": "Street Vendor",
+            "amount": 150,
+            "category": "Miscellaneous",
+            "subcategory": "Other Payments"
+        },
+        {
+            "transaction_id": "T048",
+            "merchant_name": "Pan Shop",
+            "amount": 50,
+            "category": "Personal Expenses",
+            "subcategory": "Pan Shops"
+        },
+        {
+            "transaction_id": "T049",
+            "merchant_name": "ITC",
+            "amount": 200,
+            "category": "Personal Expenses",
+            "subcategory": "Tobacco Products"
+        },
+        {
+            "transaction_id": "T050",
+            "merchant_name": "Beer Cafe",
+            "amount": 1000,
+            "category": "Personal Expenses",
+            "subcategory": "Nightclubs"
+        },
+        {
+            "transaction_id": "T051",
+            "merchant_name": "Local Bar",
+            "amount": 800,
+            "category": "Personal Expenses",
+            "subcategory": "Other Personal Purchases"
+        },
+        {
+            "transaction_id": "T052",
+            "merchant_name": "Reliance Digital",
+            "amount": 5000,
+            "category": "Shopping & Groceries",
+            "subcategory": "Electronics"
+        },
+        {
+            "transaction_id": "T053",
+            "merchant_name": "Decathlon",
+            "amount": 2000,
+            "category": "Shopping & Groceries",
+            "subcategory": "Clothing"
+        },
+        {
+            "transaction_id": "T054",
+            "merchant_name": "IRCTCC",
+            "amount": 588,
+            "category": "Travel",
+            "subcategory": "Train Ticket"
+        },
+        {
+            "transaction_id": "T055",
+            "merchant_name": "Bhila Motiram Chaudhari",
+            "amount": 40,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T056",
+            "merchant_name": "DILIP KUTE (28940696)",
+            "amount": 4180,
+            "category": "Miscellaneous",
+            "subcategory": "Other"
+        },
+        {
+            "transaction_id": "T057",
+            "merchant_name": "BALAJI GANESH PANCHAL",
+            "amount": 27,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T058",
+            "merchant_name": "Rahul Ambhore IT",
+            "amount": 20,
+            "category": "Paid to person in contact",
+            "subcategory": "Freelance Payment"
+        },
+        {
+            "transaction_id": "T059",
+            "merchant_name": "REDBUS",
+            "amount": 471.19,
+            "category": "Travel",
+            "subcategory": "Bus Ticket"
+        },
+        {
+            "transaction_id": "T060",
+            "merchant_name": "Chaupati natural kulfi",
+            "amount": 70,
+            "category": "Food & Dining",
+            "subcategory": "Desserts"
+        },
+        {
+            "transaction_id": "T061",
+            "merchant_name": "Shree Swami Samarth kirana",
+            "amount": 20,
+            "category": "Shopping & Groceries",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T062",
+            "merchant_name": "Gorakh Chavan",
+            "amount": 200,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T063",
+            "merchant_name": "ALISHAN INTERPRICES",
+            "amount": 30,
+            "category": "Shopping & Groceries",
+            "subcategory": "General Store"
+        },
+        {
+            "transaction_id": "T064",
+            "merchant_name": "MR JITENDRA KUMAR KUSHWAHA",
+            "amount": 360,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T065",
+            "merchant_name": "Indian Railways UTS",
+            "amount": 1160,
+            "category": "Travel",
+            "subcategory": "Train Ticket"
+        },
+        {
+            "transaction_id": "T066",
+            "merchant_name": "Roop Carters Mathura",
+            "amount": 300,
+            "category": "Shopping & Groceries",
+            "subcategory": "Clothing"
+        },
+        {
+            "transaction_id": "T067",
+            "merchant_name": "DMRC Limited",
+            "amount": 120,
+            "category": "Transportation",
+            "subcategory": "Metro Ticket"
+        },
+        {
+            "transaction_id": "T068",
+            "merchant_name": "soham karhale",
+            "amount": 100,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T069",
+            "merchant_name": "Mobile recharged 9356606201",
+            "amount": 242,
+            "category": "Personal Expenses",
+            "subcategory": "Mobile Recharge"
+        },
+        {
+            "transaction_id": "T070",
+            "merchant_name": "SHREE SAI XEROX AND GENERAL STORE",
+            "amount": 10,
+            "category": "Shopping & Groceries",
+            "subcategory": "Stationery"
+        },
+        {
+            "transaction_id": "T071",
+            "merchant_name": "IRCTC CF",
+            "amount": 2731.80,
+            "category": "Travel",
+            "subcategory": "Train Ticket"
+        },
+        {
+            "transaction_id": "T072",
+            "merchant_name": "IRCTC CF",
+            "amount": 2251.80,
+            "category": "Travel",
+            "subcategory": "Train Ticket"
+        },
+        {
+            "transaction_id": "T073",
+            "merchant_name": "IRCTC",
+            "amount": 2051.80,
+            "category": "Travel",
+            "subcategory": "Train Ticket"
+        },
+        {
+            "transaction_id": "T074",
+            "merchant_name": "RATAN JATI",
+            "amount": 105,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T075",
+            "merchant_name": "Nagpur Metro QR SBI ePay Collection Account",
+            "amount": 21,
+            "category": "Transportation",
+            "subcategory": "Metro Ticket"
+        },
+        {
+            "transaction_id": "T076",
+            "merchant_name": "REDBUS",
+            "amount": 998.20,
+            "category": "Travel",
+            "subcategory": "Bus Ticket"
+        },
+        {
+            "transaction_id": "T077",
+            "merchant_name": "NEW SAI TEA STALL",
+            "amount": 30,
+            "category": "Food & Dining",
+            "subcategory": "Tea"
+        },
+        {
+            "transaction_id": "T078",
+            "merchant_name": "Madina Hotel",
+            "amount": 20,
+            "category": "Food & Dining",
+            "subcategory": "Restaurant"
+        },
+        {
+            "transaction_id": "T079",
+            "merchant_name": "railway canteen pf no. 2",
+            "amount": 40,
+            "category": "Food & Dining",
+            "subcategory": "Canteen"
+        },
+        {
+            "transaction_id": "T080",
+            "merchant_name": "Ashirwad chat bhandar",
+            "amount": 60,
+            "category": "Food & Dining",
+            "subcategory": "Street Food"
+        },
+        {
+            "transaction_id": "T081",
+            "merchant_name": "Mr ARJUN LAXMANRAO HAMBARDE",
+            "amount": 50,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T082",
+            "merchant_name": "SGGS GENERAL STORE AND STATIONARY",
+            "amount": 10,
+            "category": "Shopping & Groceries",
+            "subcategory": "Stationery"
+        },
+        {
+            "transaction_id": "T083",
+            "merchant_name": "SGGS GENERAL STORE AND STATIONARY",
+            "amount": 70,
+            "category": "Shopping & Groceries",
+            "subcategory": "Stationery"
+        },
+        {
+            "transaction_id": "T084",
+            "merchant_name": "Om Rakhade Fd Gpn",
+            "amount": 26,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T085",
+            "merchant_name": "Sggs co-operative",
+            "amount": 20,
+            "category": "Shopping & Groceries",
+            "subcategory": "General Store"
+        },
+        {
+            "transaction_id": "T086",
+            "merchant_name": "Partik IT",
+            "amount": 70,
+            "category": "Paid to person in contact",
+            "subcategory": "Freelance Payment"
+        },
+        {
+            "transaction_id": "T087",
+            "merchant_name": "Jayesh Bhadange",
+            "amount": 50,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T088",
+            "merchant_name": "Selfi Jents Parlar",
+            "amount": 100,
+            "category": "Personal Expenses",
+            "subcategory": "Salon"
+        },
+        {
+            "transaction_id": "T089",
+            "merchant_name": "KESARI TEA HOUSE",
+            "amount": 70,
+            "category": "Food & Dining",
+            "subcategory": "Tea"
+        },
+        {
+            "transaction_id": "T090",
+            "merchant_name": "FRIENDS VADAPAV CENTER",
+            "amount": 30,
+            "category": "Food & Dining",
+            "subcategory": "Street Food"
+        },
+        {
+            "transaction_id": "T091",
+            "merchant_name": "Life care medical",
+            "amount": 10,
+            "category": "Health & Fitness",
+            "subcategory": "Pharmacy"
+        },
+        {
+            "transaction_id": "T092",
+            "merchant_name": "Graduate tea",
+            "amount": 40,
+            "category": "Food & Dining",
+            "subcategory": "Tea"
+        },
+        {
+            "transaction_id": "T093",
+            "merchant_name": "SANJANA KIRANA AND GENERAL STORES",
+            "amount": 40,
+            "category": "Shopping & Groceries",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T094",
+            "merchant_name": "SANJAYKUMAR THAKKAR",
+            "amount": 88,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T095",
+            "merchant_name": "Aditya Ghuge IT SGGS",
+            "amount": 294,
+            "category": "Paid to person in contact",
+            "subcategory": "Freelance Payment"
+        },
+        {
+            "transaction_id": "T096",
+            "merchant_name": "Aditya Ghuge IT SGGS",
+            "amount": 256,
+            "category": "Paid to person in contact",
+            "subcategory": "Freelance Payment"
+        },
+        {
+            "transaction_id": "T097",
+            "merchant_name": "7757841157mbk",
+            "amount": 2000,
+            "category": "Miscellaneous",
+            "subcategory": "Other"
+        },
+        {
+            "transaction_id": "T098",
+            "merchant_name": "Sggs co-operative",
+            "amount": 22,
+            "category": "Shopping",
+            "subcategory": "General Store"
+        },
+        {
+            "transaction_id": "T099",
+            "merchant_name": "Malan Kaku",
+            "amount": 175,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T100",
+            "merchant_name": "Rahul Ambhore",
+            "amount": 70,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T101",
+            "merchant_name": "Sushil",
+            "amount": 7.57,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T102",
+            "merchant_name": "7757841157mbk",
+            "amount": 1000,
+            "category": "Miscellaneous",
+            "subcategory": "Other"
+        },
+        {
+            "transaction_id": "T103",
+            "merchant_name": "Shivam",
+            "amount": 200,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T104",
+            "merchant_name": "OM Trading Company",
+            "amount": 10500,
+            "category": "Shopping",
+            "subcategory": "Wholesale Purchase"
+        },
+        {
+            "transaction_id": "T105",
+            "merchant_name": "Kapil Bhai",
+            "amount": 1200,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T106",
+            "merchant_name": "Sushant Yevtikar",
+            "amount": 60,
+            "category": "Paid to person in contact",
+            "subcategory": "Personal Transfer"
+        },
+        {
+            "transaction_id": "T127",
+            "merchant_name": "Gupta Cutting Shop",
+            "amount": 150,
+            "category": "Personal Expenses",
+            "subcategory": "Haircut"
+        },
+        {
+            "transaction_id": "T128",
+            "merchant_name": "Kohinoor Dry Cleaners",
+            "amount": 450,
+            "category": "Personal Expenses",
+            "subcategory": "Laundry"
+        },
+        {
+            "transaction_id": "T129",
+            "merchant_name": "Amar Medical Store",
+            "amount": 1299,
+            "category": "Health & Fitness",
+            "subcategory": "Pharmacy"
+        },
+        {
+            "transaction_id": "T130",
+            "merchant_name": "Yadav Gym & Fitness",
+            "amount": 2000,
+            "category": "Health & Fitness",
+            "subcategory": "Gym Membership"
+        },
+        {
+            "transaction_id": "T131",
+            "merchant_name": "Sai Mobile Repairs",
+            "amount": 899,
+            "category": "Miscellaneous",
+            "subcategory": "Device Repair"
+        },
+        {
+            "transaction_id": "T132",
+            "merchant_name": "Goyal Tyre Services",
+            "amount": 5600,
+            "category": "Transportation",
+            "subcategory": "Tyre Replacement"
+        },
+        {
+            "transaction_id": "T133",
+            "merchant_name": "Ramesh Car Wash",
+            "amount": 350,
+            "category": "Transportation",
+            "subcategory": "Car Cleaning"
+        },
+        {
+            "transaction_id": "T134",
+            "merchant_name": "Bhaskar Tailors",
+            "amount": 750,
+            "category": "Personal Expenses",
+            "subcategory": "Clothing Alteration"
+        },
+        {
+            "transaction_id": "T135",
+            "merchant_name": "Annapurna Bhojanalaya",
+            "amount": 120,
+            "category": "Food & Dining",
+            "subcategory": "Local Restaurant"
+        },
+        {
+            "transaction_id": "T136",
+            "merchant_name": "Baba Juice Center",
+            "amount": 80,
+            "category": "Food & Dining",
+            "subcategory": "Juice & Beverages"
+        },
+        {
+            "transaction_id": "T137",
+            "merchant_name": "Elite Electronics",
+            "amount": 5499,
+            "category": "Shopping & Groceries",
+            "subcategory": "Gadget Purchase"
+        },
+        {
+            "transaction_id": "T138",
+            "merchant_name": "Sharma Book Depot",
+            "amount": 999,
+            "category": "Education",
+            "subcategory": "Books & Stationery"
+        },
+        {
+            "transaction_id": "T139",
+            "merchant_name": "Saraswati Coaching Classes",
+            "amount": 7500,
+            "category": "Education",
+            "subcategory": "Tuition Fees"
+        },
+        {
+            "transaction_id": "T140",
+            "merchant_name": "Quick Mart",
+            "amount": 1850,
+            "category": "Shopping & Groceries",
+            "subcategory": "Supermarket Purchase"
+        },
+        {
+            "transaction_id": "T141",
+            "merchant_name": "Krishna Departmental Store",
+            "amount": 890,
+            "category": "Shopping & Groceries",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T142",
+            "merchant_name": "Grand Bakery",
+            "amount": 320,
+            "category": "Food & Dining",
+            "subcategory": "Bakery"
+        },
+        {
+            "transaction_id": "T143",
+            "merchant_name": "Vikas Travels",
+            "amount": 1350,
+            "category": "Travel",
+            "subcategory": "Cab Booking"
+        },
+        {
+            "transaction_id": "T144",
+            "merchant_name": "Delhi Petrol Pump",
+            "amount": 2100,
+            "category": "Transportation",
+            "subcategory": "Fuel"
+        },
+        {
+            "transaction_id": "T145",
+            "merchant_name": "Metro Digital Prints",
+            "amount": 450,
+            "category": "Miscellaneous",
+            "subcategory": "Printing & Scanning"
+        },
+        {
+            "transaction_id": "T146",
+            "merchant_name": "Raja Sweet House",
+            "amount": 540,
+            "category": "Food & Dining",
+            "subcategory": "Sweets"
+        },
+        {
+            "transaction_id": "T147",
+            "merchant_name": "The Green Nursery",
+            "amount": 1200,
+            "category": "Housing",
+            "subcategory": "Plants & Gardening"
+        },
+        {
+            "transaction_id": "T148",
+            "merchant_name": "Gaurav Hardware Store",
+            "amount": 1800,
+            "category": "Housing",
+            "subcategory": "Hardware & Tools"
+        },
+        {
+            "transaction_id": "T149",
+            "merchant_name": "Shiv Tent House",
+            "amount": 7500,
+            "category": "Entertainment",
+            "subcategory": "Event Rentals"
+        },
+        {
+            "transaction_id": "T150",
+            "merchant_name": "Jai Maa Electricals",
+            "amount": 2900,
+            "category": "Housing",
+            "subcategory": "Electrical Equipment"
+        },
+        {
+            "transaction_id": "T151",
+            "merchant_name": "Taj Mahal Hotel",
+            "amount": 3200,
+            "category": "Food & Dining",
+            "subcategory": "Fine Dining"
+        },
+        {
+            "transaction_id": "T152",
+            "merchant_name": "Singh Dhaba",
+            "amount": 450,
+            "category": "Food & Dining",
+            "subcategory": "Local Restaurant"
+        },
+        {
+            "transaction_id": "T153",
+            "merchant_name": "Bangalore Metro",
+            "amount": 60,
+            "category": "Transportation",
+            "subcategory": "Metro Ticket"
+        },
+        {
+            "transaction_id": "T154",
+            "merchant_name": "Ravi Auto Garage",
+            "amount": 2200,
+            "category": "Transportation",
+            "subcategory": "Vehicle Repair"
+        },
+        {
+            "transaction_id": "T155",
+            "merchant_name": "Blue Star Apartments",
+            "amount": 15000,
+            "category": "Housing",
+            "subcategory": "Rent Payment"
+        },
+        {
+            "transaction_id": "T156",
+            "merchant_name": "Shubham Property Dealer",
+            "amount": 12500,
+            "category": "Housing",
+            "subcategory": "Brokerage Fee"
+        },
+        {
+            "transaction_id": "T157",
+            "merchant_name": "Lifeline Hospital",
+            "amount": 3800,
+            "category": "Health & Fitness",
+            "subcategory": "Medical Consultation"
+        },
+        {
+            "transaction_id": "T158",
+            "merchant_name": "Apollo Pharmacy",
+            "amount": 1299,
+            "category": "Health & Fitness",
+            "subcategory": "Pharmacy"
+        },
+        {
+            "transaction_id": "T159",
+            "merchant_name": "Iron Gym",
+            "amount": 2500,
+            "category": "Health & Fitness",
+            "subcategory": "Gym Membership"
+        },
+        {
+            "transaction_id": "T160",
+            "merchant_name": "INOX Cinemas",
+            "amount": 980,
+            "category": "Entertainment",
+            "subcategory": "Movie Tickets"
+        },
+        {
+            "transaction_id": "T161",
+            "merchant_name": "VR Gaming Zone",
+            "amount": 750,
+            "category": "Entertainment",
+            "subcategory": "Gaming Arcade"
+        },
+        {
+            "transaction_id": "T162",
+            "merchant_name": "Big Bazaar",
+            "amount": 2150,
+            "category": "Shopping & Groceries",
+            "subcategory": "Supermarket Purchase"
+        },
+        {
+            "transaction_id": "T163",
+            "merchant_name": "Reliance Fresh",
+            "amount": 1350,
+            "category": "Shopping & Groceries",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T164",
+            "merchant_name": "Uber India",
+            "amount": 320,
+            "category": "Transportation",
+            "subcategory": "Ride-Hailing Service"
+        },
+        {
+            "transaction_id": "T165",
+            "merchant_name": "Spencer’s Retail",
+            "amount": 1750,
+            "category": "Shopping & Groceries",
+            "subcategory": "Supermarket Purchase"
+        },
+        {
+            "transaction_id": "T166",
+            "merchant_name": "Narayan Coaching Center",
+            "amount": 5000,
+            "category": "Education",
+            "subcategory": "Tuition Fees"
+        },
+        {
+            "transaction_id": "T167",
+            "merchant_name": "Vedantu Online Classes",
+            "amount": 8000,
+            "category": "Education",
+            "subcategory": "E-learning Subscription"
+        },
+        {
+            "transaction_id": "T168",
+            "merchant_name": "ICICI Mutual Funds",
+            "amount": 10000,
+            "category": "Savings & Investments",
+            "subcategory": "Mutual Fund Investment"
+        },
+        {
+            "transaction_id": "T169",
+            "merchant_name": "SBI Fixed Deposit",
+            "amount": 25000,
+            "category": "Savings & Investments",
+            "subcategory": "Fixed Deposit"
+        },
+        {
+            "transaction_id": "T170",
+            "merchant_name": "HDFC Securities",
+            "amount": 7500,
+            "category": "Savings & Investments",
+            "subcategory": "Stock Market Investment"
+        },
+        {
+            "transaction_id": "T171",
+            "merchant_name": "MakeMyTrip",
+            "amount": 12499,
+            "category": "Travel",
+            "subcategory": "Hotel Booking"
+        },
+        {
+            "transaction_id": "T172",
+            "merchant_name": "IndiGo Airlines",
+            "amount": 18500,
+            "category": "Travel",
+            "subcategory": "Flight Ticket"
+        },
+        {
+            "transaction_id": "T173",
+            "merchant_name": "Yatra.com",
+            "amount": 21000,
+            "category": "Travel",
+            "subcategory": "Holiday Package"
+        },
+        {
+            "transaction_id": "T174",
+            "merchant_name": "Jai Mata Di Tent House",
+            "amount": 9000,
+            "category": "Entertainment",
+            "subcategory": "Event Rentals"
+        },
+        {
+            "transaction_id": "T175",
+            "merchant_name": "XYZ Services Pvt Ltd",
+            "amount": 1280,
+            "category": "Miscellaneous",
+            "subcategory": "Service Payment"
+        },
+        {
+            "transaction_id": "T176",
+            "merchant_name": "Baba Roti Bhandar",
+            "amount": 180,
+            "category": "Food & Dining",
+            "subcategory": "Street Food"
+        },
+        {
+            "transaction_id": "T177",
+            "merchant_name": "Vikrant Solution Hub",
+            "amount": 5200,
+            "category": "Miscellaneous",
+            "subcategory": "Freelance Payment"
+        },
+        {
+            "transaction_id": "T178",
+            "merchant_name": "C9 Tech Innovations",
+            "amount": 7300,
+            "category": "Miscellaneous",
+            "subcategory": "IT Services"
+        },
+        {
+            "transaction_id": "T179",
+            "merchant_name": "PQR Auto Spares",
+            "amount": 2950,
+            "category": "Transportation",
+            "subcategory": "Vehicle Maintenance"
+        },
+        {
+            "transaction_id": "T180",
+            "merchant_name": "Kalpana Charitable Trust",
+            "amount": 3000,
+            "category": "Miscellaneous",
+            "subcategory": "Donations"
+        },
+        {
+            "transaction_id": "T181",
+            "merchant_name": "Sharma Paper Mart",
+            "amount": 640,
+            "category": "Shopping & Groceries",
+            "subcategory": "Office Supplies"
+        },
+        {
+            "transaction_id": "T182",
+            "merchant_name": "QuickFix Home Repairs",
+            "amount": 2100,
+            "category": "Housing",
+            "subcategory": "Home Maintenance"
+        },
+        {
+            "transaction_id": "T183",
+            "merchant_name": "DigiMart E-Store",
+            "amount": 4250,
+            "category": "Shopping & Groceries",
+            "subcategory": "Online Shopping"
+        },
+        {
+            "transaction_id": "T184",
+            "merchant_name": "Lalaji Kirana Store",
+            "amount": 175,
+            "category": "Shopping & Groceries",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T185",
+            "merchant_name": "The Royal Tent Decorators",
+            "amount": 11200,
+            "category": "Entertainment",
+            "subcategory": "Event Rentals"
+        },
+        {
+            "transaction_id": "T186",
+            "merchant_name": "Sunrise Digital Marketing",
+            "amount": 8700,
+            "category": "Miscellaneous",
+            "subcategory": "Advertising & Promotions"
+        },
+        {
+            "transaction_id": "T187",
+            "merchant_name": "Megha Tailoring House",
+            "amount": 950,
+            "category": "Personal Expenses",
+            "subcategory": "Clothing Alteration"
+        },
+        {
+            "transaction_id": "T188",
+            "merchant_name": "TinkerTech Solutions",
+            "amount": 6500,
+            "category": "Miscellaneous",
+            "subcategory": "Tech Consultation"
+        },
+        {
+            "transaction_id": "T189",
+            "merchant_name": "Green Valley Landscapers",
+            "amount": 3150,
+            "category": "Housing",
+            "subcategory": "Garden Maintenance"
+        },
+        {
+            "transaction_id": "T190",
+            "merchant_name": "Speedy Courier Express",
+            "amount": 870,
+            "category": "Miscellaneous",
+            "subcategory": "Courier Services"
+        },
+        {
+            "transaction_id": "T191",
+            "merchant_name": "Old Monk Wine Shop",
+            "amount": 1500,
+            "category": "Food & Dining",
+            "subcategory": "Alcohol & Beverages"
+        },
+        {
+            "transaction_id": "T192",
+            "merchant_name": "The Hidden Gem Bookstore",
+            "amount": 780,
+            "category": "Education",
+            "subcategory": "Books & Stationery"
+        },
+        {
+            "transaction_id": "T193",
+            "merchant_name": "Bright Future Career Academy",
+            "amount": 9700,
+            "category": "Education",
+            "subcategory": "Professional Courses"
+        },
+        {
+            "transaction_id": "T194",
+            "merchant_name": "NextGen CyberSecurity",
+            "amount": 8200,
+            "category": "Miscellaneous",
+            "subcategory": "Cybersecurity Services"
+        },
+        {
+            "transaction_id": "T195",
+            "merchant_name": "Friendly Movers & Packers",
+            "amount": 14500,
+            "category": "Housing",
+            "subcategory": "Relocation Services"
+        },
+        {
+            "transaction_id": "T196",
+            "merchant_name": "SP Consultancy Firm",
+            "amount": 4500,
+            "category": "Miscellaneous",
+            "subcategory": "Business Consulting"
+        },
+        {
+            "transaction_id": "T197",
+            "merchant_name": "Himalayan Trek Adventures",
+            "amount": 16500,
+            "category": "Travel",
+            "subcategory": "Adventure Trips"
+        },
+        {
+            "transaction_id": "T198",
+            "merchant_name": "BlueWave Fitness Center",
+            "amount": 3400,
+            "category": "Health & Fitness",
+            "subcategory": "Gym Membership"
+        },
+        {
+            "transaction_id": "T199",
+            "merchant_name": "Priya's Nail Art Studio",
+            "amount": 2200,
+            "category": "Personal Expenses",
+            "subcategory": "Beauty & Wellness"
+        },
+        {
+            "transaction_id": "T200",
+            "merchant_name": "9876543210",
+            "amount": 1250,
+            "category": "Miscellaneous",
+            "subcategory": "Unknown Transfer"
+        },
+        {
+            "transaction_id": "T201",
+            "merchant_name": "ABX-34928",
+            "amount": 2750,
+            "category": "Miscellaneous",
+            "subcategory": "Code-Based Transaction"
+        },
+        {
+            "transaction_id": "T202",
+            "merchant_name": "7766554433",
+            "amount": 980,
+            "category": "Miscellaneous",
+            "subcategory": "Unidentified Payment"
+        },
+        {
+            "transaction_id": "T203",
+            "merchant_name": "XYZ123456",
+            "amount": 3120,
+            "category": "Miscellaneous",
+            "subcategory": "Unknown Service Charge"
+        },
+        {
+            "transaction_id": "T204",
+            "merchant_name": "5698741256",
+            "amount": 4000,
+            "category": "Miscellaneous",
+            "subcategory": "Mobile-Based Payment"
+        },
+        {
+            "transaction_id": "T205",
+            "merchant_name": "QPZ-78612",
+            "amount": 1575,
+            "category": "Miscellaneous",
+            "subcategory": "Code-Based Service"
+        },
+        {
+            "transaction_id": "T206",
+            "merchant_name": "6251987345",
+            "amount": 2899,
+            "category": "Miscellaneous",
+            "subcategory": "Anonymous Transaction"
+        },
+        {
+            "transaction_id": "T207",
+            "merchant_name": "TXN0021567",
+            "amount": 3300,
+            "category": "Miscellaneous",
+            "subcategory": "Unclassified Payment"
+        },
+        {
+            "transaction_id": "T208",
+            "merchant_name": "9988776655",
+            "amount": 750,
+            "category": "Miscellaneous",
+            "subcategory": "Random Mobile Payment"
+        },
+        {
+            "transaction_id": "T209",
+            "merchant_name": "LW-852963",
+            "amount": 8450,
+            "category": "Miscellaneous",
+            "subcategory": "System-Generated Code"
+        },
+        {
+            "transaction_id": "T210",
+            "merchant_name": "9101121314",
+            "amount": 920,
+            "category": "Miscellaneous",
+            "subcategory": "Unknown Transfer"
+        },
+        {
+            "transaction_id": "T211",
+            "merchant_name": "ZZYX-4521",
+            "amount": 1830,
+            "category": "Miscellaneous",
+            "subcategory": "System Auto Payment"
+        },
+        {
+            "transaction_id": "T212",
+            "merchant_name": "9870001122",
+            "amount": 2155,
+            "category": "Miscellaneous",
+            "subcategory": "Mobile-Based Transaction"
+        },
+        {
+            "transaction_id": "T213",
+            "merchant_name": "4555ABCD123",
+            "amount": 4999,
+            "category": "Miscellaneous",
+            "subcategory": "Unlabeled Payment"
+        },
+        {
+            "transaction_id": "T214",
+            "merchant_name": "Unknown-444X",
+            "amount": 3125,
+            "category": "Miscellaneous",
+            "subcategory": "Anonymous Fund Transfer"
+        },
+        {
+            "transaction_id": "T215",
+            "merchant_name": "6743219087",
+            "amount": 610,
+            "category": "Miscellaneous",
+            "subcategory": "Random Number Payment"
+        },
+        {
+            "transaction_id": "T216",
+            "merchant_name": "XXYY-7766",
+            "amount": 4250,
+            "category": "Miscellaneous",
+            "subcategory": "Unknown Digital Payment"
+        },
+        {
+            "transaction_id": "T217",
+            "merchant_name": "TXID-0098ABC",
+            "amount": 2390,
+            "category": "Miscellaneous",
+            "subcategory": "Cryptic Code-Based Transfer"
+        },
+        {
+            "transaction_id": "T218",
+            "merchant_name": "9991112223",
+            "amount": 3333,
+            "category": "Miscellaneous",
+            "subcategory": "Phone Number Transfer"
+        },
+        {
+            "transaction_id": "T219",
+            "merchant_name": "SRK-55221",
+            "amount": 1850,
+            "category": "Miscellaneous",
+            "subcategory": "Non-Identified Payment"
+        },
+        {
+            "transaction_id": "T220",
+            "merchant_name": "7456982310",
+            "amount": 2980,
+            "category": "Miscellaneous",
+            "subcategory": "Number-Based Payment"
+        },
+        {
+            "transaction_id": "T221",
+            "merchant_name": "EZY-4488",
+            "amount": 7190,
+            "category": "Miscellaneous",
+            "subcategory": "System-Generated Transaction"
+        },
+        {
+            "transaction_id": "T222",
+            "merchant_name": "TX-INV01245",
+            "amount": 8500,
+            "category": "Miscellaneous",
+            "subcategory": "Invoice-Based Payment"
+        },
+        {
+            "transaction_id": "T223",
+            "merchant_name": "0088997744",
+            "amount": 4325,
+            "category": "Miscellaneous",
+            "subcategory": "Phone-Based Transfer"
+        },
+        {
+            "transaction_id": "T224",
+            "merchant_name": "Kashi Chat Bhandar",
+            "amount": 230,
+            "category": "Food & Dining",
+            "subcategory": "Street Food"
+        },
+        {
+            "transaction_id": "T225",
+            "merchant_name": "Haldiram's",
+            "amount": 570,
+            "category": "Food & Dining",
+            "subcategory": "Snacks & Sweets"
+        },
+        {
+            "transaction_id": "T226",
+            "merchant_name": "Sagar Ratna",
+            "amount": 1120,
+            "category": "Food & Dining",
+            "subcategory": "South Indian Restaurant"
+        },
+        {
+            "transaction_id": "T227",
+            "merchant_name": "McDonald's India",
+            "amount": 860,
+            "category": "Food & Dining",
+            "subcategory": "Fast Food"
+        },
+        {
+            "transaction_id": "T228",
+            "merchant_name": "Nagpur Metro",
+            "amount": 75,
+            "category": "Transportation",
+            "subcategory": "Metro Ticket"
+        },
+        {
+            "transaction_id": "T229",
+            "merchant_name": "Indore Auto Service",
+            "amount": 2850,
+            "category": "Transportation",
+            "subcategory": "Car Repair"
+        },
+        {
+            "transaction_id": "T230",
+            "merchant_name": "Rajdhani Bus Services",
+            "amount": 920,
+            "category": "Transportation",
+            "subcategory": "Bus Ticket"
+        },
+        {
+            "transaction_id": "T231",
+            "merchant_name": "Shiv Shakti Builders",
+            "amount": 15500,
+            "category": "Housing",
+            "subcategory": "Construction Work"
+        },
+        {
+            "transaction_id": "T232",
+            "merchant_name": "Agarwal Properties",
+            "amount": 28000,
+            "category": "Housing",
+            "subcategory": "Rent Payment"
+        },
+        {
+            "transaction_id": "T233",
+            "merchant_name": "Apollo Hospitals",
+            "amount": 5300,
+            "category": "Health & Fitness",
+            "subcategory": "Hospital Charges"
+        },
+        {
+            "transaction_id": "T234",
+            "merchant_name": "24x7 Medical Store",
+            "amount": 1125,
+            "category": "Health & Fitness",
+            "subcategory": "Medicine Purchase"
+        },
+        {
+            "transaction_id": "T235",
+            "merchant_name": "PVR Cinemas",
+            "amount": 900,
+            "category": "Entertainment",
+            "subcategory": "Movie Tickets"
+        },
+        {
+            "transaction_id": "T236",
+            "merchant_name": "Fun City Arcade",
+            "amount": 1500,
+            "category": "Entertainment",
+            "subcategory": "Gaming Zone"
+        },
+        {
+            "transaction_id": "T237",
+            "merchant_name": "Big Bazaar",
+            "amount": 2150,
+            "category": "Shopping & Groceries",
+            "subcategory": "Supermarket Purchase"
+        },
+        {
+            "transaction_id": "T238",
+            "merchant_name": "DMart",
+            "amount": 1350,
+            "category": "Shopping & Groceries",
+            "subcategory": "Groceries"
+        },
+        {
+            "transaction_id": "T239",
+            "merchant_name": "Ola Cabs",
+            "amount": 450,
+            "category": "Travel",
+            "subcategory": "Cab Booking"
+        },
+        {
+            "transaction_id": "T240",
+            "merchant_name": "IRCTC",
+            "amount": 1950,
+            "category": "Travel",
+            "subcategory": "Train Ticket"
+        },
+        {
+            "transaction_id": "T241",
+            "merchant_name": "Tata Institute of Social Sciences",
+            "amount": 55000,
+            "category": "Education",
+            "subcategory": "University Fees"
+        },
+        {
+            "transaction_id": "T242",
+            "merchant_name": "Vedantu Online Learning",
+            "amount": 12500,
+            "category": "Education",
+            "subcategory": "Online Courses"
+        },
+        {
+            "transaction_id": "T243",
+            "merchant_name": "HDFC Bank FD",
+            "amount": 10000,
+            "category": "Savings & Investments",
+            "subcategory": "Fixed Deposit"
+        },
+        {
+            "transaction_id": "T244",
+            "merchant_name": "Kotak Mutual Funds",
+            "amount": 17000,
+            "category": "Savings & Investments",
+            "subcategory": "Mutual Funds"
+        },
+        {
+            "transaction_id": "T245",
+            "merchant_name": "Selfie Salon",
+            "amount": 800,
+            "category": "Personal Expenses",
+            "subcategory": "Beauty & Wellness"
+        },
+        {
+            "transaction_id": "T246",
+            "merchant_name": "Yogesh Tailors",
+            "amount": 750,
+            "category": "Personal Expenses",
+            "subcategory": "Clothing Alteration"
+        },
+        {
+            "transaction_id": "T247",
+            "merchant_name": "Manoj Welding Works",
+            "amount": 2250,
+            "category": "Housing",
+            "subcategory": "Home Repairs"
+        },
+        {
+            "transaction_id": "T248",
+            "merchant_name": "Sunny's Fitness Studio",
+            "amount": 3100,
+            "category": "Health & Fitness",
+            "subcategory": "Gym Membership"
+        },
+        {
+            "transaction_id": "T249",
+            "merchant_name": "The Happy Baker",
+            "amount": 450,
+            "category": "Food & Dining",
+            "subcategory": "Bakery"
+        },
+        {
+            "transaction_id": "T250",
+            "merchant_name": "Amul Parlour",
+            "amount": 180,
+            "category": "Food & Dining",
+            "subcategory": "Dairy Products"
+        },
+        {
+            "transaction_id": "T251",
+            "merchant_name": "Snapdeal",
+            "amount": 3800,
+            "category": "Shopping & Groceries",
+            "subcategory": "Online Shopping"
+        },
+        {
+            "transaction_id": "T252",
+            "merchant_name": "Future Bazaar",
+            "amount": 2950,
+            "category": "Shopping & Groceries",
+            "subcategory": "Retail Store"
+        },
+        {
+            "transaction_id": "T253",
+            "merchant_name": "IndiGo Airlines",
+            "amount": 22000,
+            "category": "Travel",
+            "subcategory": "Flight Ticket"
+        },
+        {
+            "transaction_id": "T254",
+            "merchant_name": "Google Ads",
+            "amount": 4500,
+            "category": "Miscellaneous",
+            "subcategory": "Advertising Expenses"
+        },
+        {
+            "transaction_id": "T255",
+            "merchant_name": "1234567890",
+            "amount": 999,
+            "category": "Miscellaneous",
+            "subcategory": "Unidentified Payment"
+        },
+        {
+            "transaction_id": "T256",
+            "merchant_name": "CloudPay Solutions",
+            "amount": 8500,
+            "category": "Miscellaneous",
+            "subcategory": "Digital Services"
+        },
+        {
+            "transaction_id": "T257",
+            "merchant_name": "Dr. Neha Sharma",
+            "amount": 3000,
+            "category": "Paid to person in contact",
+            "subcategory": "Medical Consultation"
+        },
+        {
+            "transaction_id": "T258",
+            "merchant_name": "Rajesh Kumar",
+            "amount": 1250,
+            "category": "Paid to person in contact",
+            "subcategory": "Freelance Service"
+        }
+    ]
+}
